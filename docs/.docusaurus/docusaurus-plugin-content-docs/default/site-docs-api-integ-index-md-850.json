@@ -1,0 +1,27 @@
+{
+  "id": "api-integ/index",
+  "title": "API Integration",
+  "description": "This document explains how the Crypto Tracker integrates with external APIs to fetch cryptocurrency data.",
+  "source": "@site/docs/api-integ/index.md",
+  "sourceDirName": "api-integ",
+  "slug": "/api-integ/",
+  "permalink": "/docs/api-integ/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/api-integ/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/setup/"
+  },
+  "next": {
+    "title": "State Management",
+    "permalink": "/docs/state-mng/"
+  }
+}

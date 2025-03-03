@@ -1,0 +1,27 @@
+{
+  "id": "state-mng/index",
+  "title": "State Management",
+  "description": "This document explains the state management approach used in the Crypto Tracker application.",
+  "source": "@site/docs/state-mng/index.md",
+  "sourceDirName": "state-mng",
+  "slug": "/state-mng/",
+  "permalink": "/docs/state-mng/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/state-mng/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Integration",
+    "permalink": "/docs/api-integ/"
+  },
+  "next": {
+    "title": "Challenges & Solutions",
+    "permalink": "/docs/challenges/"
+  }
+}
