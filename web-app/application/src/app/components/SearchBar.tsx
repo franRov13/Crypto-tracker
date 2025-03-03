@@ -10,7 +10,7 @@ export default function SearchBar({ onSearch }: { onSearch: (term: string) => vo
             <input
                 className="w-full p-2 border rounded"
                 type="text"
-                placeholder="Search cryptocurrencies..."
+                placeholder="Search coins"
                 value={searchTerm}
                 onChange={(e) => {
                     setSearchTerm(e.target.value)
